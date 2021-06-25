@@ -8,6 +8,7 @@ Simple WhatsApp client developed in python using Selenium Webdriver. The client 
 - Sending documents and media files
 - Sending contacts from your phone book
 - Sending emoji
+- Sending smiles ASCII art
 
 ## Requirements
 
